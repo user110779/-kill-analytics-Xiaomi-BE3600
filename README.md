@@ -23,7 +23,7 @@
 * ** cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq
 ---
 монітор частота процесора
-cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq
+* ** cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq
 ---
 виведення файлу хост для перегляду - у ньому запис блокатора - hosts очиститься після перезавантаження роутера - скрипт застосовувати повторно
 * ** cat /etc/hosts
